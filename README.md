@@ -1,5 +1,8 @@
 # white-web-demo
 
+测试白板的单点登录逻辑，需要将uuid和token通过参数传入
+如： http://localhost:8080/?uuid=xxx&token=xxx
+
 ## Project setup
 ```
 npm install
